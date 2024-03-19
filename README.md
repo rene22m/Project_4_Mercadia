@@ -80,7 +80,7 @@ We concatinated and compiled them into one final layer that had 3 outputs (our t
 
 When comparing, the squema with 2 neuralnetworks outclassed by far the one with 3 in both accuracy and loss. The squema with 2 stacked Neural Networks is shown below
 
-![alt text](neural_network_stack.png)
+![alt text](neural%20_network_stack.png)
 
 The two models were compiled in one final layer with three outputs, using the Adam optimizer, the softmax activation was used on every layer.
 
